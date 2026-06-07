@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: white;
+} 
+
+button{
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    border: none;
+    padding: 10px ;
+    cursor: pointer ;
+}
+
+button {
+    background-color: chocolate;
+}
+
+h1, button {
+    border: 2px dashed border;
+}
+
+.my-loving-buttons {
+    background-color: pink;
+    animation: 1s ease-in;
+}
+
+.my-loving-buttons:hover {
+    scale: 1.2;
+} 
