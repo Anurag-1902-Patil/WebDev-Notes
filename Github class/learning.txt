@@ -1,0 +1,19 @@
+1. git --version = shows the version of the github we're using 
+2. git status = shows the status of" the file  
+3. git config --global user.email "your email"
+4. git config --global user.name "your name":
+5. git add. = upload all files 
+6. git commit -m "commit message" = write a message in the commit what is the commit for
+
+Steps to write uploading in a repo 
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/Anurag-1902-Patil/WebDev-Notes.git
+git push -u origin main
+
+After first push 
+git add .
+git commit -m "Describe what changed"
+git push
