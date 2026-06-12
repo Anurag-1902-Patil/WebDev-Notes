@@ -8,12 +8,20 @@ body{
     padding: 100px;
 }
 .button2{
+    
     background-color: black;
     color: whitesmoke;
     display: flex;
-    justify-content: center;
-    border: sandybrown solid;
-    width: 400px;
-    height:400px;
-    padding: 50px 100px 90px 500px;
+    justify-content:right;
+    border: sandybrown solid 10px;
+    border-radius: 100px;
+    width:600px;
+    height:600px;
+    padding: 150px;
+    font-size: 50px;
+    cursor:pointer;
+    background-image: url("https://img.magnific.com/free-photo/3d-cartoon-character_23-2151021986.jpg?semt=ais_hybrid&w=740&q=80");
+    background-size: cover;
+    opacity: 0.8;
 }
+
