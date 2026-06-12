@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.centered{
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+.button2{
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    border: sandybrown solid;
+    width: 400px;
+    height:400px;
+    padding: 50px 100px 90px 500px;
+}
